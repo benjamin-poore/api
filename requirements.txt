@@ -5,4 +5,5 @@ django-jquery
 django-bootstrap4
 django-tempus-dominus>=5.1.2.17,<6
 psycopg2>=2.8.6,<2.9
+drf-spectacular>=0.15.1,<0.16
 
